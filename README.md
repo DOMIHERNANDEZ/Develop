@@ -1,5 +1,4 @@
 Develop
 =======
 
-Para comenzar...
-............
+Para comenzar
